@@ -569,6 +569,12 @@
     font-size: 25px;
   }
 }
+@media (max-width:400px) { 
+  .contact-content .social
+   { 
+    font-size: 14px;
+  }
+}
 /* end contact */
 
 /* start footer */
